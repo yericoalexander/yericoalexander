@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yericoalexander](https://github.com/yericoalexander)  
+- 👨‍💻 All of my projects are available at [[https://github.com/yericoalexander](https://github.com/yericoalexander?tab=repositories)]([https://github.com/yericoalexander](https://github.com/yericoalexander?tab=repositories))  
 - 💬 Ask me about **Fullstack Developer**  
 - 📫 How to reach me **yericoalexander12@gmail.com**
 
