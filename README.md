@@ -6,7 +6,7 @@
   <a href="https://github.com/yericoalexander">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/yericoalexander">
+  <a href="https://linkedin.com/in/yerico-alexander">
     <img src="https://img.shields.io/badge/LinkedIn-Yerico%20Alexander-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
